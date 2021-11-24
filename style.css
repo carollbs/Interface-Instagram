@@ -35,10 +35,11 @@ body {
   align-items: center;
   justify-content: center;
   width: 50%;
+  height: auto;
 }
 
 .instagram-phone img {
-  height: 50rem;
+  height: 40rem;
 }
 
 .instagram-continue {
